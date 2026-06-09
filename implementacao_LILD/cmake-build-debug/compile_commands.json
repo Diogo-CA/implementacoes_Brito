@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/Diogo/AULAS/mat/implementacao_LILD/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -fcolor-diagnostics -o CMakeFiles/implementacao_LILD.dir/main.cpp.o -c /Users/Diogo/AULAS/mat/implementacao_LILD/main.cpp",
+  "file": "/Users/Diogo/AULAS/mat/implementacao_LILD/main.cpp",
+  "output": "/Users/Diogo/AULAS/mat/implementacao_LILD/cmake-build-debug/CMakeFiles/implementacao_LILD.dir/main.cpp.o"
+}
+]
