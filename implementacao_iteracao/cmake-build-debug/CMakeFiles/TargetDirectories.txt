@@ -1,0 +1,3 @@
+/Users/Diogo/AULAS/calc_num/implementacao_iteracao/cmake-build-debug/CMakeFiles/implementacao_iteracao.dir
+/Users/Diogo/AULAS/calc_num/implementacao_iteracao/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Diogo/AULAS/calc_num/implementacao_iteracao/cmake-build-debug/CMakeFiles/rebuild_cache.dir
